@@ -1,0 +1,5 @@
+api:
+  url: "https://s18grbmixf.execute-api.us-east-1.amazonaws.com/default/funds/rep/funders"
+  timeouts:
+    connect: 2000
+    read: 5000
